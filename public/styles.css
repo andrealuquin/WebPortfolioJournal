@@ -1,0 +1,17 @@
+body {
+    background-color: #BA8FFF;
+}
+
+h1 {
+    color: #4a2a8e;
+}
+
+.sidenav {
+  height: 100%;
+  width: 50px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  padding-top: 60px;
+}
