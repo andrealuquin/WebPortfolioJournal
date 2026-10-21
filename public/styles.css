@@ -15,3 +15,20 @@ h1 {
   left: 0;
   padding-top: 60px;
 }
+
+.vertical-name {
+    position: absolute;
+
+    left: 30px;
+    top: 70px;
+
+    display: flex;
+    flex-direction: column;
+
+    color: #4A2A8E;
+
+    font-size: 60px;
+    font-weight: 800;
+
+    line-height: 0.9;
+}
